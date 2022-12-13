@@ -1,0 +1,4 @@
+10, Hotel Calculator, 5, 3, True
+2, Hotel Pascalopol, 4, 20, True
+8, Hotel Calarasi, 4, 30, True
+5, Hotel Laptop, 2, 30, True

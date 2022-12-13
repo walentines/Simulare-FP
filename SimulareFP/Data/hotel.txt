@@ -1,0 +1,10 @@
+1, Hotel Riviera, 5, 0, False
+2, Hotel Pascalopol, 4, 19, True
+3, Hotel Bistrita, 3, 10, False
+4, Hotel Naut, 1, 0, True
+5, Hotel Laptop, 2, 30, True
+6, Hotel La Mare, 3, 0, True
+7, Hotel Bucegi, 5, 10, False
+8, Hotel Calarasi, 4, 30, True
+9, Hotel Prahova, 5, 10, False
+10, Hotel Calculator, 5, 3, True
